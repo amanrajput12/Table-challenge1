@@ -1,5 +1,5 @@
 # Table challenge 1  #
-[project-live](https://tablechallenge1.netlify.app)
+[project-live](https://table-challenge1.netlify.app)
   - - - -
  # Technology used in this project #
   ![html](./image/html.svg) ![css](./image/css.svg)  
